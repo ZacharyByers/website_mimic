@@ -1,0 +1,66 @@
+#title {
+  text-align: center;
+}
+
+#topbox {
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  padding: 20px 120px 20px 120px;
+  border: solid 1px blue;
+  background-color: #f2fbff;
+}
+
+table {
+  width: 100%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  background-color: lightgrey;
+}
+
+td {
+  text-align: center;
+}
+
+#list_titles {
+  display: flex;
+  justify-content: space-around;
+}
+
+#lists {
+  display: flex;
+}
+
+.list {
+  margin: 0 400px 0 70px;
+}
+
+#boxes {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  border: solid 2px black;
+}
+
+#circle {
+  border-radius: 50%;
+  background-color: green;
+}
+
+#square {
+  background-color: purple;
+}
+
+#bunny {
+  background-image: url("http://hsresort.com/thelavenderfestival/images/rabbit-2.png?crc=290885972");
+  background-size: 180px;
+  border-color: blue;
+}
