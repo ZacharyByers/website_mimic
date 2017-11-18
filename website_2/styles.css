@@ -1,0 +1,50 @@
+body {
+  background-color: grey;
+}
+
+#tophalf {
+  display: flex;
+}
+
+#jakes {
+  height: 200px;
+  margin-left: 20%;
+}
+
+#menu {
+  padding-right: 100px;
+  padding-bottom: 50px;
+  border: dashed 2px black;
+}
+
+li {
+  font-size: 20px;
+}
+
+#info {
+  display: flex;
+}
+
+#about {
+  padding-right: 20px;
+  border-right: solid black 3px;
+  width: 50%;
+  text-align: center;
+}
+
+#hours {
+  width: 50%;
+  text-align: center;
+}
+
+p {
+  font-size: 23px;
+}
+
+#title {
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+}
